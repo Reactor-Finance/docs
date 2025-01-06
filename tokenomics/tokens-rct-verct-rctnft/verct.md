@@ -20,6 +20,6 @@ description: Lock your $RCT into veRCT to start accessing the revenue of Reactor
 * _ve(3,3) Mechanics_: The Olympus DAO anti-dilution method, commonly known as the rebase mechanism, is combined with Curve's _vote-escrowed_ model in the Solidly-initiated ve(3,3) Mechanics concept. To safeguard `veRCT` holders from dilution and to enable a dynamic distribution of `veRCT` among participants over time, the anti-dilution level has been capped at 30%.
 * _Gauge:_ A pool with dynamic `$RCT` rewards based on `veRCT` weekly voting allocation.
 * _Voting incentives_: Custom amount of tokens deposited by a protocol on a gauge to `veRCT` holders in exchange for their votes.
-* _Max Lock_: 6 months.
+* _Max Lock_: 2 years.
 * _Farming Boost_: This feature has not been included to prevent from the emergence of any profit maxi protocols on top of Reactor. Conversely, a dynamic and decentralized governance over `$RCT` emissions is fostered over time.
 * _Flexibility_: `veRCT` positions can be merged, split, and sold on the secondary market.

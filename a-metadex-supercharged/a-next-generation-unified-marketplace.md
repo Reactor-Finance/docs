@@ -17,7 +17,11 @@ We are taking the best of ve-tokenomics and removing the inefficiencies. The LP 
 
 As a liquidity marketplace for protocols, we want to maximise governance decentralisation by ensuring that all protocols can have an equitable opportunity to benefit from RCT emissions.
 
-The LP boost across both Curve and Balancer has ensured that a meta-protocol (Convex and Aura) owns most of the veTOKEN supply. As 60% of emissions are allocated to boosted pools, these meta layers end up controlling the majority of supply allocation, governance power and charge additional fees for access. This is inefficient and value extractive by design, and what we can see is that these systems converge onto all participants earning the same boost levels, which makes the entire system redundant.
+The LP boost across both Curve and Balancer has ensured that a meta-protocol (Convex and Aura) owns most of the veTOKEN supply.&#x20;
+
+As 60% of emissions are allocated to boosted pools, these meta layers end up controlling the majority of supply allocation, governance power and charge additional fees for access.&#x20;
+
+This is inefficient and value extractive by design, and what we can see is that these systems converge onto all participants earning the same boost levels, which makes the entire system redundant.
 
 &#x20;
 

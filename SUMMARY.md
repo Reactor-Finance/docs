@@ -2,9 +2,10 @@
 
 ## Reactor Intro
 
-* [The MetaDEX For Abstract](README.md)
+* [The MetaDEX](README.md)
 * [A Revenue & Liquidity Engine](reactor-intro/a-revenue-and-liquidity-engine.md)
 * [Basic Overview](reactor-intro/basic-overview.md)
+* [Genesis Farms](reactor-intro/genesis-farms.md)
 
 ## A METADEX SUPERCHARGED
 
@@ -14,11 +15,16 @@
 
 ## AMM
 
-* [Page 1](amm/page-1.md)
+* [AMM V2](amm/page-1/README.md)
+  * [Dual-liquidity type](amm/page-1/dual-liquidity-type.md)
+  * [Dynamic directional fees](amm/page-1/dynamic-directional-fees.md)
+* [AMM V4](amm/amm-v4.md)
 
 ## Tokenomics
 
+* [Distribution Schedule](tokenomics/distribution-schedule/README.md)
+  * [Community Airdrop](tokenomics/distribution-schedule/community-airdrop.md)
+  * [Protocol Airdrop](tokenomics/distribution-schedule/protocol-airdrop.md)
 * [Tokens (RCT, veRCT, rctNFT)](tokenomics/tokens-rct-verct-rctnft/README.md)
-  * [RCT](tokenomics/tokens-rct-verct-rctnft/rct.md)
   * [veRCT](tokenomics/tokens-rct-verct-rctnft/verct.md)
-* [Distribution Schedule](tokenomics/distribution-schedule.md)
+  * [Emissions Schedule](tokenomics/tokens-rct-verct-rctnft/emissions-schedule.md)
