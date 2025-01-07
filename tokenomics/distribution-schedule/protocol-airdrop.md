@@ -22,9 +22,8 @@ To promote long-term protocol alignment, 30% of Reactor’s initial token supply
 
 **Allocation Breakdown:**
 
-* 24% – $veLYNX Holders (subject to eligibility criteria, of locks must be >1 year)
-* 4% – Engaged users from partner communities: Thena on BNB, Aerodrome on Base, Velodrome on Optimism and Fenix on Blast.
-* 2% - Engaged users from Monad Ecosystems
+* 10% – Engaged users from partner communities: Lynex on Linea, Thena on BNB, Aerodrome on Base, Velodrome on Optimism and Fenix on Blast.
+* 20% – Engaged users from Monad Ecosystems
 
 ## Confirmed Protocols to Receive Airdrop
 

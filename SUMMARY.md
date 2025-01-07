@@ -28,3 +28,9 @@
 * [Tokens (RCT, veRCT, rctNFT)](tokenomics/tokens-rct-verct-rctnft/README.md)
   * [veRCT](tokenomics/tokens-rct-verct-rctnft/verct.md)
   * [Emissions Schedule](tokenomics/tokens-rct-verct-rctnft/emissions-schedule.md)
+
+## INFO & SECURITY
+
+* [Audits](info-and-security/audits.md)
+* [Contracts](info-and-security/contracts.md)
+* [Brand Assets](info-and-security/brand-assets.md)
