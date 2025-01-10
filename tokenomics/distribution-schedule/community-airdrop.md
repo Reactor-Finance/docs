@@ -25,11 +25,6 @@ The airdrop structure ensures Reactor’s alignment with its most active and com
 **The airdrop will be structured as follows:**
 
 * 10% unlocked RCT tokens at TGE
-* 60% unlocked veRCT locked for 24 months at TGE
-* 10% unlocked veRCT locked for 6 months in month 2
-* 10% unlocked veRCT in month 6 months in month 3
-* 10% unlocked veRCT in month 6 months in month 4
-
-or
-
-* 100% unlocked veRCT (max locked)
+* 20% locked veRCT for 6 months at TGE
+* 30% locked veRCT for 12 months at TGE
+* 40% locked veRCT for 24 months at TGE

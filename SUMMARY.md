@@ -2,8 +2,9 @@
 
 ## Reactor Intro
 
-* [The MetaDEX](README.md)
+* [The MetaDEX for Monad](README.md)
 * [A Revenue & Liquidity Engine](reactor-intro/a-revenue-and-liquidity-engine.md)
+* [Why we choose Monad?](reactor-intro/why-we-choose-monad.md)
 * [Basic Overview](reactor-intro/basic-overview.md)
 * [Genesis Farms](reactor-intro/genesis-farms.md)
 

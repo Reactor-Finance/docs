@@ -14,7 +14,8 @@ Our selection criteria encompass crucial factors such as TVL, trade volumes, pro
 
 Protocols are encouraged to take part in a virtuous cycle by reinvesting their earned emissions into incentives for their gauges, thereby attracting more liquidity. This strategy contributes to a self-sustaining ecosystem.
 
-* Tokens veRCT locked for 24 months
+* 10% RCT unlocked at TGE
+* 90% veRCT locked for 24 months
 
 ## Airdrop Allocation Overview
 
@@ -33,6 +34,7 @@ To promote long-term protocol alignment, 30% of Reactor’s initial token supply
 
 ## Confirmed Monad Communities to Receive Airdrop
 
+* TBA
 * TBA
 * TBA
 
