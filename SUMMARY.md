@@ -32,6 +32,7 @@
 
 ## INFO & SECURITY
 
+* [Roadmap](info-and-security/roadmap.md)
 * [Audits](info-and-security/audits.md)
 * [Contracts](info-and-security/contracts.md)
 * [Brand Assets](info-and-security/brand-assets.md)
