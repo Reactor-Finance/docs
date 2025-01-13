@@ -2,7 +2,7 @@
 description: Definition of RCT token economy
 ---
 
-# Tokens (RCT, veRCT, rctNFT)
+# Tokens
 
 ### `$RCT` — ERC-20 utility token of the protocol <a href="#usdthe-bep-20-utility-token-of-the-protocol" id="usdthe-bep-20-utility-token-of-the-protocol"></a>
 
@@ -25,7 +25,3 @@ To encourage continuous locking and sustained participation from stakeholders, t
 
 
 The longer the vesting time, the higher the voting power (voting weight) and rewards the `$veVELO` holder receives.
-
-### **`rctNFT` — ERC-721 founders' token in the form of an NFT (non-fungible token)**
-
-`rctNFT` is a non dilutive NFT collection that can be staked for revenue sharing. The staking pool receives 10% of total trading fees from Reactor, as well as royalties from secondary sales of `rctNFT`.

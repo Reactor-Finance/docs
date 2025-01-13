@@ -14,6 +14,7 @@ The main stakeholders of a typical AMM (on Monad Chain), including `veRCT` holde
 
 #### **Emissions specifications** <a href="#emissions-specifications" id="emissions-specifications"></a>
 
-* _Weekly emissions (at inception)_: 2,500,000 `$RCT`
+* _Weekly emissions (at inception)_: 5,000,000 `$RCT`
 * _Weekly emissions decay_: 1%
 * _Weekly_ `veRCT` _rebase_: Up to 30%
+* _Weekly developer wallet allocation_: 4%
