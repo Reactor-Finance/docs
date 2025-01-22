@@ -28,3 +28,32 @@ The airdrop structure ensures Reactor’s alignment with its most active and com
 * 20% locked veRCT for 6 months at TGE
 * 30% locked veRCT for 12 months at TGE
 * 40% locked veRCT for 24 months at TGE
+
+***
+
+## Airdrop Allocation Overview
+
+To promote long-term protocol alignment, 12% of Reactor’s initial token supply has been allocated for strategic airdrops. This ensures the protocol’s early supporters are rewarded while fostering a committed user base.
+
+**Allocation Breakdown:**
+
+* 7% – Engaged users from Reactor
+* 5% – Engaged users from partner communities: Lynex on Linea, Thena on BNB, Aerodrome on Base, Velodrome on Optimism and Fenix on Blast.
+
+Our selection criteria encompass crucial factors such as TVL, trade volumes, prospects of future collaboration, and the quality of the product. In addition, we're steadfast in achieving equilibrium between Monad based protocols and projects hailing from other blockchain networks.
+
+Protocols are encouraged to take part in a virtuous cycle by reinvesting their earned emissions into incentives for their gauges, thereby attracting more liquidity. This strategy contributes to a self-sustaining ecosystem.
+
+***
+
+## Confirmed Protocols to Receive Airdrop
+
+* TBA
+* TBA
+* TBA
+
+## Confirmed Monad Communities to Receive Airdrop
+
+* TBA
+* TBA
+* TBA

@@ -24,8 +24,8 @@
 ## Tokenomics
 
 * [Distribution Schedule](tokenomics/distribution-schedule/README.md)
-  * [Community Airdrop](tokenomics/distribution-schedule/community-airdrop.md)
-  * [Protocol Airdrop](tokenomics/distribution-schedule/protocol-airdrop.md)
+  * [Community Airdrop](tokenomics/distribution-schedule/community-airdrop/README.md)
+    * [Reactor Points](tokenomics/distribution-schedule/community-airdrop/reactor-points.md)
 * [Tokens](tokenomics/tokens-rct-verct-rctnft/README.md)
   * [veRCT](tokenomics/tokens-rct-verct-rctnft/verct.md)
   * [Emissions Schedule](tokenomics/tokens-rct-verct-rctnft/emissions-schedule.md)
