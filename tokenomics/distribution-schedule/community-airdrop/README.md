@@ -37,8 +37,8 @@ To promote long-term protocol alignment, 12% of Reactor’s initial token supply
 
 **Allocation Breakdown:**
 
-* 7% – Engaged users from Reactor
-* 5% – Engaged users from partner communities: Lynex on Linea, Thena on BNB, Aerodrome on Base, Velodrome on Optimism and Fenix on Blast.
+* 8% – Engaged users from Reactor
+* 4% – Engaged users from partner communities: Lynex on Linea, Thena on BNB, Aerodrome on Base, Velodrome on Optimism and Fenix on Blast.
 
 Our selection criteria encompass crucial factors such as TVL, trade volumes, prospects of future collaboration, and the quality of the product. In addition, we're steadfast in achieving equilibrium between Monad based protocols and projects hailing from other blockchain networks.
 
