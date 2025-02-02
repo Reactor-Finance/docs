@@ -1,4 +1,4 @@
-# Reactor Points
+# Reactor Points (Testnet)
 
 {% hint style="warning" %}
 Visit the points dashboard to track your points.
@@ -6,7 +6,7 @@ Visit the points dashboard to track your points.
 
 Reactor Points are user-focused airdrop rewards earned through the Community Airdrop program. Designed to drive growth and strengthen Reactor's ecosystem, this program positions Reactor as a premier hub for DeFi enthusiasts, empowering users to maximize their asset potential on Monad..
 
-To qualify for the airdrop, you will need to earn Reactor Points by swap and add Liquidity on Reactor. These points will be distributed as 10% RCT and 90% veRCT, ensuring long-term sustainability and preventing sudden shifts in supply.
+To qualify for the airdrop, you will need to earn Reactor Points by swap, add Liquidity, and refer your friends to Reactor. These points will be distributed as [#long-term-ecosystem-impact](./#long-term-ecosystem-impact "mention") , ensuring long-term sustainability and preventing sudden shifts in supply.
 
 ## Airdrop Points Dashboard
 

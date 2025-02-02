@@ -5,5 +5,4 @@ Genesis pools were created to serve as exclusive farms for early adopters. To pr
 **Allocation Breakdown:**
 
 * 8% – Reactor Points holder (Mainnet) will receive 8,000,000 tokens that will be distributed proportionally to early adopters who bootstrapped liquidity on Reactor during the Open Beta.
-* 4% – Will be allocated to voters on the WETH/USDC and MON/USDC pairs.
-
+* 4% – Will be allocated to voters on the RCT/USDC, RCT/MON and MON/USDC pairs.
