@@ -38,10 +38,10 @@ To promote long-term protocol alignment, 12% of Reactor’s initial token supply
 **Allocation Breakdown:**
 
 * 5% – Engaged users from Reactor
-* 3% – all the Nads on the 1000 Keone list
+* 3% - Engaged users from partner communities Under Monad ecosystems
 * 4% – Engaged users from partner communities: Lynex on Linea, Thena on BNB, Aerodrome on Base, Velodrome on Optimism and Fenix on Blast.
 
-Our selection criteria encompass crucial factors such as TVL, trade volumes, prospects of future collaboration, and the quality of the product. In addition, we're steadfast in achieving equilibrium between Monad based protocols and projects hailing from other blockchain networks.
+For Partner communities in other chain: Our selection criteria encompass crucial factors such as TVL, trade volumes, prospects of future collaboration, and the quality of the product. In addition, we're steadfast in achieving equilibrium between Monad based protocols and projects hailing from other blockchain networks.
 
 Protocols are encouraged to take part in a virtuous cycle by reinvesting their earned emissions into incentives for their gauges, thereby attracting more liquidity. This strategy contributes to a self-sustaining ecosystem.
 
