@@ -2,7 +2,7 @@
 
 ## Token Allocation <a href="#airdrop" id="airdrop"></a>
 
-<figure><img src="../../.gitbook/assets/Tokenomics (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
 
 
 
