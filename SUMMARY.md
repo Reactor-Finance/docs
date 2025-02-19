@@ -25,7 +25,6 @@
 
 * [Distribution Schedule](tokenomics/distribution-schedule/README.md)
   * [Community Airdrop](tokenomics/distribution-schedule/community-airdrop/README.md)
-    * [Reactor Points (Testnet)](tokenomics/distribution-schedule/community-airdrop/reactor-points-testnet.md)
   * [Genesis Pool](tokenomics/distribution-schedule/genesis-pool.md)
 * [Tokens](tokenomics/tokens-rct-verct-rctnft/README.md)
   * [veRCT](tokenomics/tokens-rct-verct-rctnft/verct.md)
@@ -33,6 +32,7 @@
 
 ## INFO & SECURITY
 
+* [Reactor Points (Testnet)](tokenomics/distribution-schedule/community-airdrop/reactor-points-testnet.md)
 * [Roadmap](info-and-security/roadmap.md)
 * [Audits](info-and-security/audits.md)
 * [Contracts](info-and-security/contracts.md)

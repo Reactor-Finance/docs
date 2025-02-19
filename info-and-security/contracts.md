@@ -4,9 +4,11 @@ description: Contracts will be progressively added
 
 # Contracts
 
-| Name    | Contract Address |
-| ------- | ---------------- |
-| Router  |                  |
-| Factory |                  |
-|         |                  |
+Testnet
+
+| Name       | Contract Address |
+| ---------- | ---------------- |
+| Router     |                  |
+| Factory    |                  |
+| RCT Tokens |                  |
 

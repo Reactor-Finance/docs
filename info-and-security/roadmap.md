@@ -7,13 +7,13 @@
 * V1 & V2 DEX Development
 * Beta launch
 * Early Adopters sale
+* V4 Development
 
 ## Phase 2
 
 * Security Audit
 * Implement bug fixes
 * Public Sale
-* V4 Development
 * Public Launch
 * Genesis Farms
 
