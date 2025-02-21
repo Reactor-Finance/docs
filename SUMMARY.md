@@ -10,6 +10,7 @@
 
 ## A METADEX SUPERCHARGED
 
+* [What is ve(3,3)?](a-metadex-supercharged/what-is-ve-3-3.md)
 * [A Next Generation Unified Marketplace](a-metadex-supercharged/a-next-generation-unified-marketplace.md)
 * [A 2 Years Maximum Lock](a-metadex-supercharged/a-2-years-maximum-lock.md)
 * [Liquidity Pools](a-metadex-supercharged/liquidity-pools.md)
