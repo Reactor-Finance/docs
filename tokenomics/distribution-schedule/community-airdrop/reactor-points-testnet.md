@@ -16,10 +16,20 @@ To qualify for the airdrop, you will need to earn Reactor Points by swap, add Li
 2. **Liquidity Provision**: Provide liquidity into pools.
 3. Referral: Refer your friends.
 
+## Eligible Assets
+
+1. RCT/MON
+2. RCT/USDC
+3. MON/USDC
+4. MON/USDT
+5. MON/ETH
+6. ETH/USDC
+7. ETH/USDT
+
 ## How many Reactor Points do I receive for each activity?
 
-1. Swap: You will earn 1 point for every $1 equivalent traded. For example, if you were to swap $100 equivalent in MON into USDT/USDC, you will earn 500 points. Also note that even if only one of the assets is an eligible asset when swapping (i.e., swapping Token 0 to Token 1 when only Token 0 is an eligible asset), you will still receive the full points for that swap transaction.
-2. Liquidity Providers: You can provide liquidity into eligible pools to earn Points. The USD value of your liquidity position is calculated hourly to determine your points earned for that 1 hour. For example, if you were to provide $100 equivalent of liquidity, you will receive 20.83 Points/hour.
+1. Swap: You will earn 1 point for every $5 traded. For example, if you were to swap $100 in MON into USDT/USDC, you will earn 20 points. Also note that even if only one of the assets is an eligible asset when swapping (i.e., swapping Token 0 to Token 1 when only Token 0 is an eligible asset), you will still receive the full points for that swap transaction.
+2. Liquidity Providers: You can provide liquidity into eligible pools to earn Points. The USD value of your liquidity position is calculated hourly to determine your points earned for that 1 hour. For example, if you were to provide $100 of liquidity, you will receive 30 Points/hour..
 
 {% hint style="warning" %}
 Visit the points dashboard to track your points.
