@@ -29,6 +29,8 @@ To qualify for the airdrop, you will need to earn Reactor Points by swap, add Li
    * MON/USDT
    * MON/YAKI
    * MON/CHOG
+   * MON/DAK
+   * MON/shMON
 
 ## How many Reactor Points do I receive for each activity?
 
