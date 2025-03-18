@@ -18,14 +18,17 @@ To qualify for the airdrop, you will need to earn Reactor Points by swap, add Li
 
 ## Eligible Assets
 
-1. RCT/MON
-2. RCT/USDC
-3. RCT/ETH
-4. RCT/USDT
-5. MON/USDC
-6. MON/USDT
-7. MON/YAKI
-8. MON/CHOG&#x20;
+1. Swap
+   * All pair
+2. Liquidity
+   * RCT/MON
+   * RCT/USDC
+   * RCT/ETH
+   * RCT/USDT
+   * MON/USDC
+   * MON/USDT
+   * MON/YAKI
+   * MON/CHOG
 
 ## How many Reactor Points do I receive for each activity?
 
