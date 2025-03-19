@@ -1,6 +1,6 @@
-# The MetaDEX
+# The MetaDEX for Monad
 
-Reactor is a MetaDEX that belongs to a new class of decentralized exchanges that merge the best features of ve(3,3), Curve, Convex, Uniswap, Compound and Aave. into a unified protocol with a streamlined and performant design.
+Reactor is a MetaDEX that belongs to a new class of decentralized exchanges that merge the best features of ve(3,3), Curve, Convex, and Uniswap into a unified protocol with a streamlined and performant design.
 
 <figure><img src=".gitbook/assets/intro (1).png" alt=""><figcaption></figcaption></figure>
 
