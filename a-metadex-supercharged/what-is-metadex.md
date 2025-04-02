@@ -1,4 +1,8 @@
-# What is ve(3,3)?
+---
+description: Elevating Engagement amongst all stakeholders
+---
+
+# What is MetaDEX?
 
 ## _ve(3,3)_ <a href="#undefined" id="undefined"></a>
 

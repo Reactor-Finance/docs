@@ -10,7 +10,7 @@
 
 ## A METADEX SUPERCHARGED
 
-* [What is ve(3,3)?](a-metadex-supercharged/what-is-ve-3-3.md)
+* [What is MetaDEX?](a-metadex-supercharged/what-is-metadex.md)
 * [A Next Generation Unified Marketplace](a-metadex-supercharged/a-next-generation-unified-marketplace.md)
 * [A 2 Years Maximum Lock](a-metadex-supercharged/a-2-years-maximum-lock.md)
 * [Liquidity Pools](a-metadex-supercharged/liquidity-pools.md)
@@ -20,7 +20,7 @@
 * [AMM V2](amm/page-1/README.md)
   * [Dual-liquidity type](amm/page-1/dual-liquidity-type.md)
   * [Dynamic directional fees](amm/page-1/dynamic-directional-fees.md)
-* [AMM V4](amm/amm-v4.md)
+* [Metaflow](amm/metaflow.md)
 
 ## Tokenomics
 
@@ -30,6 +30,10 @@
 * [Tokens](tokenomics/tokens-rct-verct-rctnft/README.md)
   * [veRCT](tokenomics/tokens-rct-verct-rctnft/verct.md)
   * [Emissions Schedule](tokenomics/tokens-rct-verct-rctnft/emissions-schedule.md)
+
+***
+
+* [Protocol Revenue](protocol-revenue.md)
 
 ## INFO & SECURITY
 
