@@ -2,11 +2,11 @@
 description: Uniswap V3 & V4 Integration
 ---
 
-# Metaflow
+# Fluxline
 
 Uniswap has set the standard for decentralized exchanges (DEXs) through continuous innovation in automated market maker (AMM) technology. Uniswap V3 introduced concentrated liquidity, while Uniswap V4 enhances flexibility and efficiency with hooks and a singleton contract model.
 
-### **Why build Metaflow in-house?**
+### **Why build Fluxline in-house?**
 
 Concentrated liquidity pools (clAMM) have proven to be a highly effective design for delivering low slippage onchain swaps. Early on we understood that, combined with Reactor's liquidity engine, clAMM pools would have the potential to capture a growing share of volume on the Monad Chain.&#x20;
 

@@ -20,7 +20,7 @@
 * [AMM V2](amm/page-1/README.md)
   * [Dual-liquidity type](amm/page-1/dual-liquidity-type.md)
   * [Dynamic directional fees](amm/page-1/dynamic-directional-fees.md)
-* [Metaflow](amm/metaflow.md)
+* [Fluxline](amm/fluxline.md)
 
 ## Tokenomics
 
