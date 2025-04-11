@@ -8,7 +8,7 @@ Uniswap has set the standard for decentralized exchanges (DEXs) through continuo
 
 ### **Why build Metaflow in-house?**
 
-Concentrated liquidity pools (clAMM) have proven to be a highly effective design for delivering low slippage onchain swaps. Early on we understood that, combined with Reactor's liquidity engine, clAMM pools would have the potential to capture a growing share of volume on the Optimism network.&#x20;
+Concentrated liquidity pools (clAMM) have proven to be a highly effective design for delivering low slippage onchain swaps. Early on we understood that, combined with Reactor's liquidity engine, clAMM pools would have the potential to capture a growing share of volume on the Monad Chain.&#x20;
 
 After careful consideration, we decided Reactor would be best served if we designed a personalized implementation of clAMM for several reasons:
 
